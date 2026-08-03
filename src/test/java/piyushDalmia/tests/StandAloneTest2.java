@@ -60,7 +60,7 @@ public class StandAloneTest2 extends BaseTest {
 		
 	}
 	
-	
+	// commenting something to test the auto CI CD using jenkins
 	
 //	@org.testng.annotations.DataProvider
 //	public Object[][] getData() {
